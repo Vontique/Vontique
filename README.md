@@ -1,13 +1,15 @@
-### Hi there, I'm Vontique! 👋
+## Hi there, I'm Vontique! 👋
 
 My full name is Michael J. Abarintos VI.
 
 I am an IT Support and Systems Administration professional based in Metro Manila, specializing in troubleshooting, Active Directory management, endpoint security, and IT service desk ticketing operations.
 
+I love learning tech, building gadgets, making music covers, and courting my love-of-my-life. 
+
 ---
 
 ### 📁 Featured Projects
-* **[IT Support Portfolio](https://github.com/Vontique/it-support-portfolio)** showcases a comprehensive collection of simulated ITSM incident tickets documenting end-to-end troubleshooting, root cause analysis, and step-by-step technical resolutions.
+**[Check out my IT Support Portfolio](https://github.com/Vontique/it-support-portfolio)**—a comprehensive collection of simulated ITSM incident tickets documenting end-to-end troubleshooting, root cause analysis, and step-by-step technical resolutions.
 
 ---
 
