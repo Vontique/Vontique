@@ -4,7 +4,7 @@ My full name is Michael J. Abarintos VI.
 
 I am an IT Support and Systems Administration professional based in Metro Manila, specializing in troubleshooting, Active Directory management, endpoint security, and IT service desk ticketing operations.
 
-I love learning tech, building gadgets, making music covers, and courting my love-of-my-life. 
+I love learning tech, building gadgets, making music covers, and courting my love-of-my-life! 
 
 ---
 
